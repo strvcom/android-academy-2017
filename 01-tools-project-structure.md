@@ -151,9 +151,10 @@ Templates and utilities
 - [Alfonz](https://github.com/petrnohejl/Alfonz)
 
 
-News, resources, dev support
+Resources, news, dev support
 ----------------------------
 
+- [Developer Guide](https://developer.android.com/develop/index.html)
 - [Android Weekly](http://androidweekly.net/)
 - [Twitter](https://twitter.com/hashtag/androiddev)
 - [Google Plus](https://plus.google.com/communities/105153134372062985968)

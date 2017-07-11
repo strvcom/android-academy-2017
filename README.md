@@ -20,7 +20,7 @@ Academy Workshops
 - Code formatter
 - Tech stack
 - Templates and utilities
-- News, resources, dev support
+- Resources, news, dev support
 
 ## 2. Activities
 
