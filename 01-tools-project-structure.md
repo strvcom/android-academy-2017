@@ -69,6 +69,7 @@ Gradle
 - Build toolkit
 - Top-level and module-level build files
 - [Configure your build](https://developer.android.com/studio/build/index.html)
+- [Gradle template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Base/mobile/build.gradle)
 
 
 Maven
@@ -100,6 +101,7 @@ Manifest
 - App components
 - [Merge multiple manifest files](https://developer.android.com/studio/build/manifest-merge.html)
 - Gradle injection
+- [Manifest template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Base/mobile/src/main/AndroidManifest.xml)
 
 
 Project structure
