@@ -39,16 +39,17 @@ Academy Workshops
 - Basic views (text, button, checkbox, image, edittext, progress, webview)
 - Toolbar, FAB, NavigationView, SwipeRefreshLayout
 - Toast, Snackbar, AlertDialog
-- Intro to RecyclerView, ViewPager
+- Intro to RecyclerView
+- Intro to ViewPager
 - Include, merge
 
 ## 4. Styles & Resources
 
-- Themes
-- Styles
+- Theme
+- Style
 - Text appearance
 - Resources (dimens, colors, strings)
-- Drawables (vector, shapes, 9-patch)
+- Drawable (vector, shape, 9-patch)
 - Selector
 - Menu
 
