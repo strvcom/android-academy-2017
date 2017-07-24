@@ -56,8 +56,8 @@ Academy Workshops
 ## 5. Intents & Permissions & Notifications
 
 - Bundle, Parcelable
-- Start activity
-- Implicit intents
+- Start Activity
+- Implicit Intent
 - Intent filters
 - Deep linking
 - Permissions
@@ -65,18 +65,17 @@ Academy Workshops
 - Broadcast receiver
 - Intro to SharedPreferences
 
-## 6. Logging & Debuging
+## 6. Logging & Debugging
 
 - Monitor
 - Logcat utility
-- Debuger
+- Debugger
 - Developer options in Settings menu
+- Tools
 
 ## 7. MVVM architecture
 
-- Model
-- View
-- ViewModel
+- Model, View, ViewModel
 - Responsibilities of layers
 - Handling orientation change
 - Libraries

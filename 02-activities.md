@@ -30,10 +30,12 @@ Fragment
 - [Fragment doc](https://developer.android.com/guide/components/fragments.html)
 - [FragmentManager doc](https://developer.android.com/reference/android/app/FragmentManager.html)
 - [Fragment template](https://github.com/petrnohejl/Android-Templates-And-Utilities/tree/master/Src-MVC-Fragment)
+- [Create Fragment instance template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Src-Bundle/java/fragment/ExampleFragment.java)
 - Static Fragment in XML layout
 - Retained Fragment
 - Nested Fragment
 - Use Fragment from support library
+- Use factory method to create a new instance of Fragment
 
 
 Lifecycle

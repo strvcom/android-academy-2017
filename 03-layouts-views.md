@@ -5,12 +5,12 @@ Layouts & Views
 FrameLayout, LinearLayout, RelativeLayout
 -----------------------------------------
 
-- [UI overview](https://developer.android.com/guide/topics/ui/overview.html)
+- [UI overview doc](https://developer.android.com/guide/topics/ui/overview.html)
 - [Layouts doc](https://developer.android.com/guide/topics/ui/declaring-layout.html)
 - [FrameLayout doc](https://developer.android.com/reference/android/widget/FrameLayout.html)
 - [LinearLayout doc](https://developer.android.com/guide/topics/ui/layout/linear.html)
 - [RelativeLayout doc](https://developer.android.com/guide/topics/ui/layout/relative.html)
-- [Performance and view hierarchies](https://developer.android.com/topic/performance/rendering/optimizing-view-hierarchies.html)
+- [Performance and view hierarchies doc](https://developer.android.com/topic/performance/rendering/optimizing-view-hierarchies.html)
 - Nested LinearLayouts might be faster than RelativeLayout
 
 
@@ -77,4 +77,4 @@ Intro to ViewPager
 Include, merge
 --------------
 
-- [Reusing layouts](https://developer.android.com/training/improving-layouts/reusing-layouts.html)
+- [Reusing layouts doc](https://developer.android.com/training/improving-layouts/reusing-layouts.html)

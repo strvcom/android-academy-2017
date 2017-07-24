@@ -32,7 +32,7 @@ Homework:
 - Create a base skeleton of the movie app
 - Create a main activity (showing popular movies) with fragment and layout
 - Use Toolbar, FAB, StatefulLayout for handling states and RecyclerView for a list of movies
-- Define your own Material theme
+- Define your own Material theme (https://invis.io/JUCOY543V)
 - For now, use dummy data (instead of real movies from the TMDb API)
 - Optionally you can use CoordinatorLayout for scrolling effects
 

@@ -44,6 +44,7 @@ Selector
 --------
 
 - [Selector template](https://github.com/petrnohejl/Android-Templates-And-Utilities/tree/master/Res-Theme/drawable)
+- [Ripple template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Res-Theme/drawable-v21/selector_clickable_item_bg.xml)
 
 
 Menu
