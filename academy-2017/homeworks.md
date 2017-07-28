@@ -25,7 +25,6 @@ Topics:
 
 - Activities
 - Layouts & Views
-- Styles & Resources
 
 Homework:
 
@@ -42,14 +41,15 @@ Week #3
 
 Topics:
 
+- Styles & Resources
 - Intents & Permissions & Notifications
-- Logging & Debuging
-- MVVM architecture
-- Data binding
 
 Homework:
 
-- TBA
+- Continue with development of the movie app
+- Implement tabs with ViewPager on the main activity (showing popular movies)
+- Create a detail activity (showing details about movie)
+- Follow provided design: https://invis.io/JUCOY543V
 
 
 Week #4
@@ -57,6 +57,9 @@ Week #4
 
 Topics:
 
+- Logging & Debuging
+- MVVM architecture
+- Data binding
 - RecyclerView & PagerView
 - Dialogs
 
