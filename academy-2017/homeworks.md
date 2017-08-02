@@ -30,7 +30,7 @@ Homework:
 
 - Create a base skeleton of the movie app
 - Create a main activity (showing popular movies) with fragment and layout
-- Use Toolbar, FAB, StatefulLayout for handling states and RecyclerView for a list of movies
+- Use Toolbar, StatefulLayout for handling states and RecyclerView for a list of movies
 - Define your own Material theme (https://invis.io/JUCOY543V)
 - For now, use dummy data (instead of real movies from the TMDb API)
 - Optionally you can use CoordinatorLayout for scrolling effects
@@ -59,13 +59,15 @@ Topics:
 
 - Logging & Debuging
 - MVVM architecture
-- Data binding
-- RecyclerView & PagerView
-- Dialogs
 
 Homework:
 
-- TBA
+- Continue with development of the movie app
+- Create actors screen (showing popular actors)
+- Create an actor detail screen (showing details about actor)
+- Create a profile screen (showing favorite movies)
+- Follow provided design: https://invis.io/JUCOY543V
+- For now, use dummy data (instead of real movies from the TMDb API)
 
 
 Week #5
@@ -73,6 +75,9 @@ Week #5
 
 Topics:
 
+- Data binding
+- RecyclerView & PagerView
+- Dialogs
 - Threading & Background tasks
 - RxJava (optional, advanced)
 
