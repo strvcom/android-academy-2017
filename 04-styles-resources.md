@@ -25,6 +25,7 @@ Text appearance
 Resources (dimens, colors, strings)
 -----------------------------------
 
+- [Resources qualifiers doc](https://developer.android.com/guide/topics/resources/providing-resources.html)
 - [Dimens template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Res-Theme/values/dimens.xml)
 - [Colors template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Res-Theme/values/colors.xml)
 - [Strings template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Res-Strings/values/strings.xml)

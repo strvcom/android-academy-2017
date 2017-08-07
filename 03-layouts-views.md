@@ -34,6 +34,8 @@ Basic views (text, button, checkbox, image, edittext, progress, webview)
 - [Basic views template](https://github.com/petrnohejl/Android-Templates-And-Utilities/blob/master/Res-Theme/layout/test.xml)
 - View attributes
 - [WebView template](https://github.com/petrnohejl/Android-Templates-And-Utilities/tree/master/Src-WebView)
+- Generated R class
+- Accessing views from Activity or Fragment
 
 
 Toolbar, FAB, NavigationView, SwipeRefreshLayout
