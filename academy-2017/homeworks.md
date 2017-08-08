@@ -77,13 +77,16 @@ Topics:
 
 - Data binding
 - RecyclerView & PagerView
-- Dialogs
-- Threading & Background tasks
-- RxJava (optional, advanced)
 
 Homework:
 
-- TBA
+- Continue with development of the movie app
+- Create sign up & log in screens
+- Create a favorite movies screen (showing a list of favorite movies)
+- Finish all the remaining screens in the app (e.g. image gallery)
+- Optionally you can start implementing MVVM architecture & data binding
+- Follow provided design: https://invis.io/JUCOY543V
+- For now, use dummy data (instead of real movies from the TMDb API)
 
 
 Week #6
@@ -91,6 +94,9 @@ Week #6
 
 Topics:
 
+- Dialogs
+- Threading & Background tasks
+- RxJava (optional, advanced)
 - REST
 - Image processing & Media
 
