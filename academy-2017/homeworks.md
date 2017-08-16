@@ -76,7 +76,6 @@ Week #5
 Topics:
 
 - Data binding
-- RecyclerView & PagerView
 
 Homework:
 
@@ -94,15 +93,13 @@ Week #6
 
 Topics:
 
-- Dialogs
-- Threading & Background tasks
-- RxJava (optional, advanced)
-- REST
-- Image processing & Media
+- RecyclerView & ViewPager
 
 Homework:
 
-- TBA
+- Continue with development of the movie app
+- Implement MVVM with data binding
+- Implement generic adapters for RecyclerView and ViewPager
 
 
 Week #7
@@ -110,6 +107,11 @@ Week #7
 
 Topics:
 
+- Dialogs
+- Threading & Background tasks
+- RxJava (optional, advanced)
+- REST
+- Image processing & Media
 - Database & Preferences
 - Firebase (optional)
 
