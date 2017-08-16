@@ -92,12 +92,12 @@ Academy Workshops
 - BindingConversion
 - Data binding & MVVM
 
-## 9. RecyclerView & PagerView
+## 9. RecyclerView & ViewPager
 
 - Adapters
 - ViewHolder pattern
 - RecyclerView, LayoutManager
-- PagerView
+- ViewPager
 - Generic adapters
 
 ## 10. Dialogs

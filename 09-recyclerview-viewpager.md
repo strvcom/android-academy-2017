@@ -1,4 +1,4 @@
-RecyclerView & PagerView
+RecyclerView & ViewPager
 ========================
 
 
@@ -24,7 +24,7 @@ RecyclerView, LayoutManager
 - Notify methods
 
 
-PagerView
+ViewPager
 ---------
 
 - [ViewPager doc](https://developer.android.com/training/animation/screen-slide.html)
