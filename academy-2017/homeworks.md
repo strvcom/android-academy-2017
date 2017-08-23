@@ -110,14 +110,14 @@ Topics:
 - Dialogs
 - Threading & Background tasks
 - RxJava (optional, advanced)
-- REST
-- Image processing & Media
-- Database & Preferences
-- Firebase (optional)
 
 Homework:
 
-- TBA
+- Continue with development of the movie app
+- Finish all previous homeworks
+- Simulate loading dummy data in AsyncTask
+- Read Retrofit and Gson documentation
+- Play with Retrofit and implement a simple REST API call
 
 
 Week #8
@@ -125,6 +125,10 @@ Week #8
 
 Topics:
 
+- REST
+- Image processing & Media
+- Database & Preferences
+- Firebase (optional)
 - Map & Geolocation
 - Animations
 
