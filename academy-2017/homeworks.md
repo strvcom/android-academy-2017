@@ -126,15 +126,15 @@ Week #8
 Topics:
 
 - REST
-- Image processing & Media
-- Database & Preferences
-- Firebase (optional)
-- Map & Geolocation
-- Animations
 
 Homework:
 
-- TBA
+- Continue with development of the movie app
+- Create data entities for all API calls
+- Implement all REST API calls which you will need in the movie app
+- Load data from server in view models and bind it to your XML layout
+- Use TMDb API (https://www.themoviedb.org/documentation/api)
+- Optionally you can use repository pattern for better abstraction
 
 
 Week #9
@@ -142,6 +142,11 @@ Week #9
 
 Topics:
 
+- Image processing & Media
+- Database & Preferences
+- Firebase (optional)
+- Map & Geolocation
+- Animations
 - Testing
 - Build & Deployment
 - Best practices & Guidelines
