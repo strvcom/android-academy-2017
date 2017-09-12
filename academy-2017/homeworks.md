@@ -142,8 +142,34 @@ Week #9
 
 Topics:
 
+- Architecture Components
+
+Homework:
+
+- Continue with development of the movie app
+- Finish all previous homeworks
+
+
+Week #10
+--------
+
+Topics:
+
 - Image processing & Media
 - Database & Preferences
+
+Homework:
+
+- Continue with development of the movie app
+- Try out ORM database (for example Room)
+- Use database to store favorite movies
+
+
+Week #11
+--------
+
+Topics:
+
 - Firebase (optional)
 - Map & Geolocation
 - Animations
